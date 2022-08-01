@@ -1,0 +1,17 @@
+[
+  {
+    "name": "cuaderno",
+    "price": 300,
+    "id": 1
+  },
+  {
+    "name": "lapiz",
+    "price": 100,
+    "id": 2
+  },
+  {
+    "name": "lapicera",
+    "price": 250,
+    "id": 3
+  }
+]
